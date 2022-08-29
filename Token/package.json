@@ -1,0 +1,18 @@
+{
+  "name": "token",
+  "version": "1.0.0",
+  "description": "ERC20Token",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rakesh",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.4.2",
+    "@truffle/hdwallet-provider": "^2.0.14"
+  }
+}
